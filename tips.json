@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "title": "Choosing a suitable aquarium",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Research the adult size and social needs of the fish you want before buying a tank.",
+      "Choose a tank large enough for the planned stock, with room for filtration and swimming.",
+      "Place it on a level, purpose-built stand."
+    ],
+    "caution": "Small tanks can be less stable; never choose fish solely by their size in the shop."
+  },
+  {
+    "id": 2,
+    "title": "Safe tank location",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Keep the aquarium away from direct sunlight, radiators and cold draughts.",
+      "Provide a stable stand and safe access to electrical sockets.",
+      "Leave space to maintain the filter and reach the tank safely."
+    ],
+    "caution": "Water is heavy; check floor and furniture load capacity."
+  },
+  {
+    "id": 3,
+    "title": "Aquarium cycling before fish",
+    "category": "Water Quality",
+    "frequency": "As needed",
+    "steps": [
+      "Set up the filter and run a fishless nitrogen cycle using an appropriate ammonia source.",
+      "Test ammonia, nitrite and nitrate with reliable kits and record the readings.",
+      "Add fish only when the system processes the intended ammonia load without detectable ammonia or nitrite."
+    ],
+    "caution": "Cycling can take weeks; do not assume clear water is safe."
+  },
+  {
+    "id": 4,
+    "title": "Understanding ammonia",
+    "category": "Water Quality",
+    "frequency": "Weekly",
+    "steps": [
+      "Use a freshwater test kit to check ammonia, especially in new or troubled tanks.",
+      "If detected, check fish behaviour, reduce feeding and carry out an appropriate partial water change.",
+      "Investigate filtration or stocking issues."
+    ],
+    "caution": "Ammonia is toxic; urgent corrective action may be needed."
+  },
+  {
+    "id": 5,
+    "title": "Understanding nitrite",
+    "category": "Water Quality",
+    "frequency": "Weekly",
+    "steps": [
+      "Test nitrite during cycling and after filter problems.",
+      "If nitrite is detectable in an occupied tank, take prompt corrective steps including suitable partial water changes.",
+      "Keep the biological filter running and investigate the cause."
+    ],
+    "caution": "Nitrite can impair oxygen transport in fish."
+  },
+  {
+    "id": 6,
+    "title": "Monitoring nitrate",
+    "category": "Water Quality",
+    "frequency": "Weekly",
+    "steps": [
+      "Test nitrate and compare with the needs of the fish and plants.",
+      "Use regular partial water changes and sensible feeding to prevent buildup.",
+      "Record trends rather than relying on one reading."
+    ],
+    "caution": "Nitrate targets depend on species and local water conditions."
+  },
+  {
+    "id": 7,
+    "title": "Testing pH properly",
+    "category": "Water Quality",
+    "frequency": "Weekly",
+    "steps": [
+      "Test aquarium pH and the pH of your source water.",
+      "Choose species suited to your normal water chemistry.",
+      "Avoid chasing a perfect number with rapid chemical changes."
+    ],
+    "caution": "Stable, species-appropriate conditions are often safer than sudden adjustments."
+  },
+  {
+    "id": 8,
+    "title": "Water hardness basics",
+    "category": "Water Quality",
+    "frequency": "As needed",
+    "steps": [
+      "Check general hardness and carbonate hardness of your source water.",
+      "Research whether chosen fish need soft or hard water.",
+      "Keep a record when choosing stock or making changes."
+    ],
+    "caution": "Different fish have different mineral requirements."
+  },
+  {
+    "id": 9,
+    "title": "Conditioning tap water",
+    "category": "Water Changes",
+    "frequency": "Every water change",
+    "steps": [
+      "Measure replacement water and dose a suitable aquarium dechlorinator according to its label.",
+      "Match replacement water temperature closely to the tank.",
+      "Add water gently without disturbing fish or substrate."
+    ],
+    "caution": "Chlorine and chloramine can harm fish and beneficial bacteria."
+  },
+  {
+    "id": 10,
+    "title": "Routine partial water changes",
+    "category": "Water Changes",
+    "frequency": "Weekly",
+    "steps": [
+      "Test the water and decide an appropriate change volume for your aquarium.",
+      "Siphon out part of the water while removing accessible waste.",
+      "Refill slowly with temperature-matched, conditioned water."
+    ],
+    "caution": "Avoid changing all water at once during routine care."
+  },
+  {
+    "id": 11,
+    "title": "Gravel vacuuming",
+    "category": "Cleaning",
+    "frequency": "Weekly",
+    "steps": [
+      "Use a gravel siphon to lift debris from accessible substrate.",
+      "Work in sections so fish and plants are not disturbed excessively.",
+      "Replace removed water with conditioned water."
+    ],
+    "caution": "Avoid deep disturbance of substrates designed to remain layered."
+  },
+  {
+    "id": 12,
+    "title": "Cleaning aquarium glass",
+    "category": "Cleaning",
+    "frequency": "As needed",
+    "steps": [
+      "Use a dedicated aquarium algae pad or scraper appropriate to glass or acrylic.",
+      "Clean gently near seals and corners.",
+      "Remove loose debris during the next water change."
+    ],
+    "caution": "Never use household detergents or abrasive tools on acrylic."
+  },
+  {
+    "id": 13,
+    "title": "Maintaining a sponge filter",
+    "category": "Filtration",
+    "frequency": "Monthly",
+    "steps": [
+      "Switch off the air pump safely before maintenance.",
+      "Gently squeeze the sponge in a bucket of removed aquarium water.",
+      "Reassemble and confirm airflow has resumed."
+    ],
+    "caution": "Do not sterilise filter media or rinse it in untreated tap water."
+  },
+  {
+    "id": 14,
+    "title": "Cleaning a canister filter",
+    "category": "Filtration",
+    "frequency": "As needed",
+    "steps": [
+      "Follow the manufacturer's shutdown and priming instructions.",
+      "Rinse mechanical media gently in removed tank water.",
+      "Keep biological media wet and restart promptly, checking for leaks."
+    ],
+    "caution": "Do not replace all biological media at once."
+  },
+  {
+    "id": 15,
+    "title": "Protecting beneficial bacteria",
+    "category": "Filtration",
+    "frequency": "As needed",
+    "steps": [
+      "Keep the filter running continuously except for short maintenance.",
+      "Avoid overcleaning all media at the same time.",
+      "Check water parameters after major equipment changes."
+    ],
+    "caution": "A disrupted biofilter can cause dangerous ammonia or nitrite spikes."
+  },
+  {
+    "id": 16,
+    "title": "Choosing filter flow",
+    "category": "Filtration",
+    "frequency": "As needed",
+    "steps": [
+      "Research whether your fish prefer gentle or strong current.",
+      "Position the outlet to circulate water without exhausting fish.",
+      "Use a spray bar or baffle if needed."
+    ],
+    "caution": "Long-finned or small fish may struggle in excessive flow."
+  },
+  {
+    "id": 17,
+    "title": "Air stones and surface movement",
+    "category": "Equipment",
+    "frequency": "As needed",
+    "steps": [
+      "Check whether your filter provides enough surface agitation.",
+      "Add an air stone if extra circulation is useful.",
+      "Observe fish for gasping or unusual behaviour."
+    ],
+    "caution": "An air stone does not replace water-quality management."
+  },
+  {
+    "id": 18,
+    "title": "Setting a stable heater",
+    "category": "Equipment",
+    "frequency": "Daily",
+    "steps": [
+      "Choose a heater sized for the aquarium and the species kept.",
+      "Use a separate thermometer to verify the temperature.",
+      "Check readings daily and protect the heater from damage."
+    ],
+    "caution": "Unplug heaters before exposing them to air during water changes."
+  },
+  {
+    "id": 19,
+    "title": "Using an aquarium thermometer",
+    "category": "Equipment",
+    "frequency": "Daily",
+    "steps": [
+      "Place a thermometer where you can read it easily.",
+      "Check for unusual changes morning or evening.",
+      "Compare with a second thermometer if readings seem wrong."
+    ],
+    "caution": "Sudden temperature swings can stress fish."
+  },
+  {
+    "id": 20,
+    "title": "Safe aquarium electrics",
+    "category": "Equipment",
+    "frequency": "As needed",
+    "steps": [
+      "Create drip loops below sockets and plugs.",
+      "Keep extension leads and adapters away from splashes.",
+      "Unplug equipment safely before wet maintenance."
+    ],
+    "caution": "Water and mains electricity are hazardous; use an RCD-protected supply."
+  },
+  {
+    "id": 21,
+    "title": "Choosing LED lighting",
+    "category": "Equipment",
+    "frequency": "As needed",
+    "steps": [
+      "Choose aquarium lighting suitable for your plants and fish.",
+      "Use a timer for a consistent day-night cycle.",
+      "Adjust duration if algae grows excessively."
+    ],
+    "caution": "Avoid leaving bright lights on continuously."
+  },
+  {
+    "id": 22,
+    "title": "Live plant selection",
+    "category": "Plants",
+    "frequency": "As needed",
+    "steps": [
+      "Choose aquatic plants suited to your light and water conditions.",
+      "Check whether fish may dig or eat delicate plants.",
+      "Rinse and inspect plants before adding them."
+    ],
+    "caution": "Avoid plants treated with chemicals unsuitable for aquariums."
+  },
+  {
+    "id": 23,
+    "title": "Planting without damaging roots",
+    "category": "Plants",
+    "frequency": "As needed",
+    "steps": [
+      "Remove packaging and damaged leaves.",
+      "Plant roots in suitable substrate without burying the crown of rosette plants.",
+      "Anchor or attach species that grow on wood and rock."
+    ],
+    "caution": "Anubias and Java fern rhizomes should not be buried."
+  },
+  {
+    "id": 24,
+    "title": "Trimming aquarium plants",
+    "category": "Plants",
+    "frequency": "Monthly",
+    "steps": [
+      "Use clean dedicated aquarium scissors.",
+      "Remove dead leaves and trim excessive growth gradually.",
+      "Siphon away cuttings and check filter intakes."
+    ],
+    "caution": "Avoid major plant removal all at once in a heavily planted tank."
+  },
+  {
+    "id": 25,
+    "title": "Managing algae safely",
+    "category": "Plants",
+    "frequency": "As needed",
+    "steps": [
+      "Identify whether algae is linked to light, nutrients or maintenance.",
+      "Reduce excess lighting and remove algae manually.",
+      "Review feeding and water changes before considering treatments."
+    ],
+    "caution": "Do not rely on algae-eating fish as a substitute for care."
+  },
+  {
+    "id": 26,
+    "title": "Choosing compatible fish",
+    "category": "Fish Selection",
+    "frequency": "As needed",
+    "steps": [
+      "Research adult size, water chemistry, temperament and temperature needs.",
+      "Check whether species are schooling, territorial or predatory.",
+      "Plan stocking conservatively for the actual aquarium."
+    ],
+    "caution": "Fish sold as small juveniles may grow very large."
+  },
+  {
+    "id": 27,
+    "title": "Keeping schooling fish",
+    "category": "Fish Selection",
+    "frequency": "As needed",
+    "steps": [
+      "Research the minimum appropriate group size for each schooling species.",
+      "Provide open swimming space and cover.",
+      "Observe whether shy fish settle better in a suitable group."
+    ],
+    "caution": "Do not buy extra fish if the tank cannot safely support them."
+  },
+  {
+    "id": 28,
+    "title": "Introducing new fish",
+    "category": "Fish Selection",
+    "frequency": "As needed",
+    "steps": [
+      "Dim the lights and float the sealed transport bag briefly to reduce temperature differences.",
+      "Acclimate fish according to reputable species and retailer guidance, avoiding prolonged exposure to bag water.",
+      "Transfer fish with minimal transport water and observe quietly."
+    ],
+    "caution": "Never pour shop water into the aquarium; acclimation needs vary."
+  },
+  {
+    "id": 29,
+    "title": "Quarantining new arrivals",
+    "category": "Fish Health",
+    "frequency": "As needed",
+    "steps": [
+      "Prepare a separate, cycled quarantine tank with suitable equipment.",
+      "Observe new fish for abnormal behaviour and signs of disease before adding them to the main tank.",
+      "Use separate nets and equipment where practical."
+    ],
+    "caution": "Quarantine duration and treatment should be guided by an aquatic vet or experienced specialist."
+  },
+  {
+    "id": 30,
+    "title": "Daily fish observation",
+    "category": "Fish Health",
+    "frequency": "Daily",
+    "steps": [
+      "Watch swimming, breathing, appetite and social behaviour.",
+      "Check for torn fins, spots, swelling or unusual hiding.",
+      "Record changes and check water parameters promptly."
+    ],
+    "caution": "Rapid breathing, loss of balance or multiple sick fish need urgent attention."
+  },
+  {
+    "id": 31,
+    "title": "Responding to a sick fish",
+    "category": "Fish Health",
+    "frequency": "As needed",
+    "steps": [
+      "Test ammonia, nitrite, temperature and other relevant parameters.",
+      "Record symptoms and check whether more than one fish is affected.",
+      "Seek qualified aquatic veterinary advice before using medication."
+    ],
+    "caution": "Do not medicate blindly or combine treatments."
+  },
+  {
+    "id": 32,
+    "title": "White spot awareness",
+    "category": "Fish Health",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for small white spots, rubbing and rapid breathing.",
+      "Check water quality and seek a reliable diagnosis.",
+      "Follow species-safe veterinary or specialist treatment advice."
+    ],
+    "caution": "White spots can have different causes; some medications harm invertebrates."
+  },
+  {
+    "id": 33,
+    "title": "Fin damage and fin rot",
+    "category": "Fish Health",
+    "frequency": "As needed",
+    "steps": [
+      "Inspect fins for tears, fraying and redness.",
+      "Check for bullying, sharp decor and poor water conditions.",
+      "Get specialist help if damage progresses or infection is suspected."
+    ],
+    "caution": "Avoid treating every torn fin with antibiotics."
+  },
+  {
+    "id": 34,
+    "title": "Feeding the right diet",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Choose a quality diet suited to each fish species and feeding level.",
+      "Offer small portions they can consume promptly.",
+      "Remove uneaten food and monitor body condition."
+    ],
+    "caution": "Overfeeding is a common cause of poor water quality."
+  },
+  {
+    "id": 35,
+    "title": "Frozen fish foods",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Use commercially prepared frozen foods suited to your fish.",
+      "Thaw a small portion safely and feed with clean tools.",
+      "Discard leftovers rather than refreezing thawed food."
+    ],
+    "caution": "Follow package handling instructions to avoid contamination."
+  },
+  {
+    "id": 36,
+    "title": "Feeding bottom dwellers",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Choose sinking food appropriate to the species.",
+      "Feed when bottom-dwelling fish can reach it without competition.",
+      "Remove uneaten food and check all fish are eating."
+    ],
+    "caution": "Catfish and loaches have different diets; they cannot live on scraps alone."
+  },
+  {
+    "id": 37,
+    "title": "Avoiding overfeeding",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Measure portions instead of adding food by eye.",
+      "Watch for uneaten food and rising nitrate.",
+      "Adjust feeding to fish size, species and condition."
+    ],
+    "caution": "Excess food breaks down and can harm water quality."
+  },
+  {
+    "id": 38,
+    "title": "Planning holidays and fish feeding",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Arrange a trusted person to check the aquarium and feed pre-measured portions.",
+      "Leave clear instructions and an emergency contact.",
+      "Test any automatic feeder well before travelling."
+    ],
+    "caution": "Avoid adding large amounts of food before leaving."
+  },
+  {
+    "id": 39,
+    "title": "Caring for shrimp",
+    "category": "Invertebrates",
+    "frequency": "As needed",
+    "steps": [
+      "Check water chemistry and copper sensitivity for the shrimp species.",
+      "Provide hiding places and gentle filter intake protection.",
+      "Offer suitable food and observe moulting."
+    ],
+    "caution": "Many fish prey on small shrimp; check compatibility."
+  },
+  {
+    "id": 40,
+    "title": "Caring for aquarium snails",
+    "category": "Invertebrates",
+    "frequency": "As needed",
+    "steps": [
+      "Identify the snail species and its adult size.",
+      "Provide suitable food and minerals where needed.",
+      "Check that medications are safe for invertebrates."
+    ],
+    "caution": "Never release unwanted aquarium animals into waterways."
+  },
+  {
+    "id": 41,
+    "title": "Avoiding accidental pests",
+    "category": "Plants",
+    "frequency": "As needed",
+    "steps": [
+      "Inspect new plants and decor for unwanted hitchhikers.",
+      "Quarantine or prepare plants using safe methods where appropriate.",
+      "Remove pests manually if needed."
+    ],
+    "caution": "Never use household pesticides in an aquarium."
+  },
+  {
+    "id": 42,
+    "title": "Safe decorations and wood",
+    "category": "Decor",
+    "frequency": "As needed",
+    "steps": [
+      "Choose aquarium-safe rock, wood and ornaments.",
+      "Check for sharp edges, unstable stacks and trapped spaces.",
+      "Rinse new items without soap before placing them."
+    ],
+    "caution": "Some rocks alter water hardness and pH."
+  },
+  {
+    "id": 43,
+    "title": "Aquarium substrate choices",
+    "category": "Decor",
+    "frequency": "As needed",
+    "steps": [
+      "Research whether your fish need sand, smooth gravel or specialised plant substrate.",
+      "Rinse substrates as directed before use.",
+      "Keep substrate depth and grain size appropriate for the species."
+    ],
+    "caution": "Sharp gravel can damage sensitive bottom-dwelling fish."
+  },
+  {
+    "id": 44,
+    "title": "Moving fish during a house move",
+    "category": "Emergencies",
+    "frequency": "As needed",
+    "steps": [
+      "Prepare insulated fish-safe containers with tank water for short transport.",
+      "Keep filter media wet and preserve oxygen and temperature as practical.",
+      "Reassemble promptly and test water after the move."
+    ],
+    "caution": "Long transport needs specialist planning; never seal fish in unventilated containers for extended periods."
+  },
+  {
+    "id": 45,
+    "title": "Responding to a power cut",
+    "category": "Emergencies",
+    "frequency": "As needed",
+    "steps": [
+      "Keep the aquarium insulated and avoid unnecessary opening.",
+      "If safe, provide battery-powered aeration.",
+      "Check temperature and water quality when power returns."
+    ],
+    "caution": "Filter bacteria and oxygen levels can be affected by prolonged outages."
+  },
+  {
+    "id": 46,
+    "title": "Responding to a filter failure",
+    "category": "Emergencies",
+    "frequency": "As needed",
+    "steps": [
+      "Check power and safely inspect blocked intakes or impellers.",
+      "Provide aeration if possible while arranging repair.",
+      "Test ammonia and nitrite until filtration is stable."
+    ],
+    "caution": "Never run a damaged electrical device in water."
+  },
+  {
+    "id": 47,
+    "title": "Handling a heater malfunction",
+    "category": "Emergencies",
+    "frequency": "As needed",
+    "steps": [
+      "Check temperature with a separate thermometer.",
+      "Disconnect faulty equipment safely and stabilise temperature gradually.",
+      "Seek an appropriate replacement promptly."
+    ],
+    "caution": "Avoid rapid cooling or heating and never touch a broken submerged heater."
+  },
+  {
+    "id": 48,
+    "title": "Avoiding cleaning chemicals",
+    "category": "Safety",
+    "frequency": "As needed",
+    "steps": [
+      "Keep sprays, soap, polish and paint fumes away from open tanks.",
+      "Use dedicated aquarium buckets and tools.",
+      "Wash hands and rinse thoroughly before aquarium maintenance."
+    ],
+    "caution": "Even small amounts of household chemicals can be toxic to aquatic life."
+  },
+  {
+    "id": 49,
+    "title": "Preventing fish escapes",
+    "category": "Safety",
+    "frequency": "As needed",
+    "steps": [
+      "Use a secure lid with appropriate gaps for cables and ventilation.",
+      "Check gaps near filter hoses and decorations.",
+      "Keep jump-prone fish in a suitably covered tank."
+    ],
+    "caution": "Some fish can jump through surprisingly small openings."
+  },
+  {
+    "id": 50,
+    "title": "Keeping a water-test log",
+    "category": "Record Keeping",
+    "frequency": "Weekly",
+    "steps": [
+      "Record date, temperature, ammonia, nitrite, nitrate and pH.",
+      "Note water changes, new fish and equipment maintenance.",
+      "Look for trends and changes before problems become serious."
+    ],
+    "caution": "A log helps identify causes but does not replace prompt action when fish are unwell."
+  },
+  {
+    "id": 51,
+    "title": "Planning stocking changes",
+    "category": "Record Keeping",
+    "frequency": "As needed",
+    "steps": [
+      "Review current fish sizes and water quality before adding animals.",
+      "Research compatibility and quarantine plans.",
+      "Introduce new stock gradually and monitor the biological filter."
+    ],
+    "caution": "Never add many fish at once to an immature aquarium."
+  },
+  {
+    "id": 52,
+    "title": "Responsible fish rehoming",
+    "category": "Responsible Care",
+    "frequency": "As needed",
+    "steps": [
+      "Contact a reputable aquarium shop, rescue or experienced aquarist if you cannot keep a fish.",
+      "Share species, size and water requirements.",
+      "Transport animals in suitable fish-safe containers."
+    ],
+    "caution": "Never release aquarium fish or plants into the wild."
+  }
+]
